@@ -7,6 +7,9 @@ Showcase video:
 
 This was developed on a test server with EXTDB2, no infistar and no battleye.
 
+## IMPORTANT - READ THIS FIRST!
+
+This uses a hook function which replaces the original files and hooks on to the end of the call to avoid overrides. If it does NOT work out of the box use the overrides needed and make modifications to your files as needed. Mainly the bottom of the files were edited.
 
 # Install Instructions:
 
