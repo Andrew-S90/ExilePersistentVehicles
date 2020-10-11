@@ -1,9 +1,9 @@
-/*
- * Vehicles Server VehicleServer_world_createPersistantVehicle
+ /*
  *
- * This spawns the passed vehicles, spawns an unlocked vehicle with specified hitpoints, fuel and position.
+ * Author: Andrew_S90
  *
- * Made by Andrew_S90
+ * This work is protected by Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). 
+ *
  */
 
 private ["_dbID", "_classname", "_spawnPos", "_damageMin", "_damageMax", "_atl", "_fuel", "_vehicleObject", "_hitPointsCfgs"];

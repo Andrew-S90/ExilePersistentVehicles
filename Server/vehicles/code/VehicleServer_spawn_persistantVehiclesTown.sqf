@@ -1,9 +1,9 @@
-/*
- * Vehicles Server VehicleServer_spawn_PersistantVehiclesTown
+ /*
  *
- * Spawns Vehicles randomly in towns, will spawn within a 200m radius of each town center, 400m on big towns.
+ * Author: Andrew_S90
  *
- * Made by Andrew_S90
+ * This work is protected by Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). 
+ *
  */
 
 private ["_main", "_type", "_dbID", "_currentVeh", "_targetVeh", "_center", "_classnames", "_damageMin", "_damageMax", "_bigTowns", "_towns", "_blacklistPos", "_classname", "_found", "_count", "_spawnPos", "_town", "_radius"];

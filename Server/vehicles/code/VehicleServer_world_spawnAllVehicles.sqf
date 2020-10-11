@@ -1,9 +1,9 @@
-/*
- * Vehicles Server VehicleServer_world_spawnAllVehicles
+ /*
  *
- * This counts through the IDs provided if they are active and makes sure there is a place in the database for them and then will call everything needed to spawn them.
+ * Author: Andrew_S90
  *
- * Made by Andrew_S90
+ * This work is protected by Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). 
+ *
  */
 
 private ["_all", "_functionName", "_functionCode"];

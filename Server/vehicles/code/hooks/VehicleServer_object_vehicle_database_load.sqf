@@ -1,9 +1,9 @@
-/*
- * Vehicles Server ExileServer_object_vehicle_database_load
+ /*
  *
- * Counts how many vehicles are currently on the map for each type.
+ * Author: Andrew_S90
  *
- * Made by Andrew_S90
+ * This work is protected by Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). 
+ *
  */
  
 private ["_vehicleObject", "_ownerUID"];

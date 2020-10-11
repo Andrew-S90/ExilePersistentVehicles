@@ -1,9 +1,9 @@
-/*
- * Vehicles Server VehicleServer_spawn_PersistantVehiclesRandom
+ /*
  *
- * Spawns Vehicles randomly, will check if a vehicle is already in that spot before spawning.
+ * Author: Andrew_S90
  *
- * Made by Andrew_S90
+ * This work is protected by Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). 
+ *
  */
 
 private ["_main", "_type", "_dbID", "_currentVeh", "_targetVeh", "_center", "_classnames", "_damageMin", "_damageMax", "_blacklistPos", "_electro", "_classname", "_found", "_count", "_spawnPos"];

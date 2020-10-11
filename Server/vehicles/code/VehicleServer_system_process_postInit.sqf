@@ -1,9 +1,9 @@
-/*
- * Vehicles Server VehicleServer_system_process_postInit
+ /*
  *
- * Sets our four main types of spawn modes and will get any active classes to spawn vehicles.
+ * Author: Andrew_S90
  *
- * Made by Andrew_S90
+ * This work is protected by Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). 
+ *
  */
  
 private ["_spawnPerType", "_i"];

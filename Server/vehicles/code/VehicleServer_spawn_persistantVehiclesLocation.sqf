@@ -1,10 +1,9 @@
-/*
- * Vehicles Server VehicleServer_spawn_PersistantVehiclesLocation
+ /*
  *
- * Spawns Vehicles based on location, will check if a vehicle is already in that spot before spawning
- * Also allows a radius to spawn at a safe spot.
+ * Author: Andrew_S90
  *
- * Made by Andrew_S90
+ * This work is protected by Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). 
+ *
  */
 
 private ["_main", "_type", "_dbID", "_currentVeh", "_targetVeh", "_locations", "_classnames", "_damageMin", "_damageMax", "_spawnRadius", "_blacklistPos", "_position", "_classname", "_found", "_count", "_spawnPos"];
