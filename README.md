@@ -3,7 +3,7 @@ Random Persistent Vehicle Spawner
 
 Spawn random persistent vehicles: random (anywhere on map), road (anywhere on a road), city (inside city limits), position, water (anywhere along the shore)
 
-Showcase video: 
+Showcase video: https://www.youtube.com/watch?v=KeYxzNMEer0
 
 This was developed on a test server with EXTDB2, no infistar and no battleye.
 
